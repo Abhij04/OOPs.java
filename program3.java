@@ -2,6 +2,7 @@
 //  set :to modify the value
 
 // this : this keyword is used to refer to current object 
+// Encapsulation is defined as the wrapping up of data & methods under a single unit. It also implements data hiding
 
 public class program3 {
   public static void main(String[] args) {
